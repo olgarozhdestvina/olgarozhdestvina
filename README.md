@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/olgarozhdestvina/olgarozhdestvina/main/hello%20and%20welcome.png"> 
 
-I am a student of the Higher Diploma in Science in Computing Data Analytics at Galway-Mayo Institute of Technology (GMIT) interested in pursuing a career in data analytics. 
+I am a motivated and team-oriented Data Analyst, who enjoys working hard to continuously expand her skill set. 
 
 <img align="center" height=19 src="https://image.flaticon.com/icons/png/512/1454/1454964.png"> **Key Projects**
 | Project | Short Description                                                                                                                                               |
